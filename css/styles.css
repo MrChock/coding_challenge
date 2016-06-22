@@ -1,0 +1,46 @@
+div.green{
+	background-color: aquamarine;
+	color:white;
+	text-align:center;
+}
+
+img.favorite{
+	height:100px;
+}
+
+div#favorites{
+	height:200px;
+
+}
+div.Circle{
+	background: white;
+	border-radius:50%;
+	width:100px;
+	height:100px;
+	display:inline-block;
+	text-align:center;
+}
+
+div.rounded{
+
+	display:inline-block;
+	width:200px;
+	height:200px;
+	border-radius:10%;
+	background:gray;
+	margin-top:100px;
+}
+
+img#Portrait{
+	height:150px;
+}
+div.white{
+	text-align:center;
+	padding-right:100px;
+	padding-left:100px;
+}
+div#About{
+	text-align:left;
+	padding-right:300px;
+	padding-left: 300px;
+}
